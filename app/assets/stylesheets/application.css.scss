@@ -16,9 +16,9 @@
 @import "bootstrap";
 
 .box {
-	border: 2px solid black;
+	border: 2px solid white;
 	background-color: rgba(255,255,255,0.5);
-	border-radius: 20%;
+	margin-top: 10%;
 }
 
 body {
@@ -27,4 +27,8 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+}
+
+.aaron .foo{
+
 }
